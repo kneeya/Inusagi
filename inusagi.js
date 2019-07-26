@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    // Touch device test
+    // Mobile test
     var is_touch_device = 'ontouchstart' in document.documentElement;
     var boxapp = function() {
     var $subNav = $(".sub_panel"),
